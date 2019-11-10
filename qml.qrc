@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>login.qml</file>
+        <file>cabinet.qml</file>
+        <file>incoming_call.qml</file>
+    </qresource>
+</RCC>
